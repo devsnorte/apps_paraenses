@@ -5,6 +5,8 @@ Uma lista de aplicativos e cases de sucessos do estado do Pará.
 - [Eventos](#eventos)
 - [Jogos](#jogos)
 - [Mobilidade](#mobilidade)
+- [Marketplace](#marketplace)
+- [Utilidade](#utilidade)
 
 #### **Eventos**
 
@@ -26,3 +28,21 @@ Uma lista de aplicativos e cases de sucessos do estado do Pará.
 | App | Tipo | Links                                    |
 |-------------|------|----------------------------------|
 | Ubá  | Android | [https://appuba.com.br/](https://appuba.com.br/)|
+
+
+
+#### **Marketplace**
+
+| App | Tipo | Links                                    |
+|-------------|------|----------------------------------|
+| Diobra  | Android e IOS | [https://linktr.ee/diobra](https://linktr.ee/diobra)|
+
+
+
+#### **Utilidade**
+
+| App | Tipo | Links                                    |
+|-------------|------|----------------------------------|
+| Aluguel Direto  | Android | [https://play.google.com/store/apps/details?id=cassebtecnologia.com.br.aluguel_direto](https://play.google.com/store/apps/details?id=cassebtecnologia.com.br.aluguel_direto)|
+| Zap Direto  | Android | [https://play.google.com/store/apps/details?id=br.com.cassebtecnologia.whatsapp_direct](https://play.google.com/store/apps/details?id=br.com.cassebtecnologia.whatsapp_direct)|
+| Lavaqui  | Android e IOS | [https://lavaqui.net/](https://lavaqui.net/)|
